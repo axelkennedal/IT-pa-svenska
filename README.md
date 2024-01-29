@@ -5,4 +5,6 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 |----------|-------------|
 | Endpoint | Slutstation |
 | Input field  | Infält |
+| Dropdown | Rullgardin |
+| Heatmap | Värmekarta |
 |   |   |
