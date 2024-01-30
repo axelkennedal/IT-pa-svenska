@@ -7,4 +7,6 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Input field  | Infält |
 | Dropdown | Rullgardin |
 | Heatmap | Värmekarta |
+| Deploy | Sjösätta |
+| Release | Lansering |
 |   |   |
