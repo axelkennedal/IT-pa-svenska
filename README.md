@@ -9,4 +9,5 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Heatmap | Värmekarta |
 | Deploy | Sjösätta |
 | Release | Lansering |
-|   |   |
+| Exception | Undantag |
+|  |  |
