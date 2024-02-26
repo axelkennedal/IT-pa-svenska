@@ -10,4 +10,5 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Deploy | Sjösätta |
 | Release | Lansering |
 | Exception | Undantag |
+| Switch | Avopåknapp |
 |  |  |
