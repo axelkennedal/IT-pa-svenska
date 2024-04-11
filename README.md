@@ -9,7 +9,8 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Closed source | Stängd sås | Vi har beslutat att använda stängd sås. |
 | Bugg | Insekt/Kryp/Skalbagge | Jag hittade en insekt i din nya kod. |
 | Databas | Skafferi | Hur många tabeller finns i vårt skafferi? |
-|  |  |
+| Shebang (#!) | Viktig våffla | I ECMAScript 2023 introducerades en viktig våffla. |
+|  |  |  |
 
 
 ## Webb
@@ -23,7 +24,7 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Deploy | Sjösätta | Ikväll sjösätter vi den nya versionen. |
 | Release | Lansering | Imorgon lanserar vi den nya versionen. |
 | Exception | Undantag | Jag stötte på ett undantag när jag skulle köra den här funktionen. |
-|  |  |
+|  |  |  |
 
 
 ## UI/UX
@@ -32,4 +33,4 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Switch | Avopåknapp | Det finns en avopåknapp för att aktivera funktionen. |
 | Input field | Infält | Personnummer är ett obligatoriskt infält. |
 | Dropdown | Rullgardin | Om man fäller ner rullgardinen kan man välja storlek. |
-|  |  |
+|  |  |  |
