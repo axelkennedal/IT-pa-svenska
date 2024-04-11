@@ -6,6 +6,8 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 |----------|-------------|
 | Open source | Öppen sås |
 | Closed source | Stängd sås |
+| Bugg | Insekt/Kryp/Skalbagge |
+| Databas | Skafferi |
 |  |  |
 
 
@@ -26,3 +28,4 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Switch | Avopåknapp |
 | Input field  | Infält |
 | Dropdown | Rullgardin |
+|  |  |
