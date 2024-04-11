@@ -14,6 +14,9 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 ## Webb
 | Engelska | Svenska |
 |----------|-------------|
+| Frontend | Fören |
+| Backend | Aktern |
+| Fullstack | Helhög |
 | Endpoint | Slutstation |
 | Heatmap | Värmekarta |
 | Deploy | Sjösätta |
