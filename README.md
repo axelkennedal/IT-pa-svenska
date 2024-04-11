@@ -1,14 +1,28 @@
 # IT-pa-svenska
 Svenska översättningar för vanliga ord inom IT (på skoj).
 
+## Allmänt
+| Engelska | Svenska |
+|----------|-------------|
+| Open source | Öppen sås |
+| Closed source | Stängd sås |
+|  |  |
+
+
+## Webb
 | Engelska | Svenska |
 |----------|-------------|
 | Endpoint | Slutstation |
-| Input field  | Infält |
-| Dropdown | Rullgardin |
 | Heatmap | Värmekarta |
 | Deploy | Sjösätta |
 | Release | Lansering |
 | Exception | Undantag |
-| Switch | Avopåknapp |
 |  |  |
+
+
+## UI/UX
+| Engelska | Svenska |
+|----------|-------------|
+| Switch | Avopåknapp |
+| Input field  | Infält |
+| Dropdown | Rullgardin |
