@@ -24,6 +24,7 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Deploy | Sjösätta | Ikväll sjösätter vi den nya versionen. |
 | Release | Lansering | Imorgon lanserar vi den nya versionen. |
 | Exception | Undantag | Jag stötte på ett undantag när jag skulle köra den här funktionen. |
+| Cookies | Kakor | Jag var tvungen att äta upp mina kakor för att få sidan att fungera. |
 |  |  |  |
 
 
