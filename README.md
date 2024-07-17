@@ -10,6 +10,7 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Bugg | Insekt/Kryp/Skalbagge | Jag hittade en insekt i din nya kod. |
 | Databas | Skafferi | Hur många tabeller finns i vårt skafferi? |
 | Shebang (#!) | Viktig våffla | I ECMAScript 2023 introducerades en viktig våffla. |
+| Scope | Projektomfattning/Omfattning | Det här ingår inte i projektomfattningen. |
 |  |  |  |
 
 
