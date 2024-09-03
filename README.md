@@ -1,5 +1,5 @@
 # IT-pa-svenska
-Svenska översättningar för vanliga ord inom IT (på skoj).
+Svenska översättningar för vanliga ord inom IT (på skoj). Inspirerad av https://github.com/bjorne/git-pa-svenska
 > Gör gärna en ryckbegäran om du anser att något ska ändras/läggas till.
 
 ## Allmänt
@@ -11,6 +11,17 @@ Svenska översättningar för vanliga ord inom IT (på skoj).
 | Databas | Skafferi | Hur många tabeller finns i vårt skafferi? |
 | Shebang (#!) | Viktig våffla | I ECMAScript 2023 introducerades en viktig våffla. |
 | Scope | Projektomfattning/Omfattning | Det här ingår inte i projektomfattningen. |
+|  |  |  |
+
+## Git
+| Engelska | Svenska | Exempel |
+|----------|-------------|----------------------------------------------------|
+| Branch | Gren | Jag jobbar i min egen gren. |
+| Merge | Sammanfoga | Jag har sammanfogat master till integrations-grenen. |
+| Release branch | Lanseringsgren | Nu har jag sammanfogat alla ärenden in i lanseringsgrenen. |
+| Push | Knuffa | Nu har jag knuffat koden till master. |
+| Pull | Rycka | Kom du ihåg att rycka den nya koden? |
+| Pull request | Ryckbegäran | Kan du kolla in min ryckbegäran för lanseringsgrenen? |
 |  |  |  |
 
 
