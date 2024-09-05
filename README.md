@@ -1,5 +1,5 @@
 # IT-pa-svenska
-Svenska översättningar för vanliga ord inom IT (på skoj). Inspirerad av https://github.com/bjorne/git-pa-svenska
+Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspirerad av https://github.com/bjorne/git-pa-svenska
 > Gör gärna ett dragförslag om du anser att något ska ändras/läggas till.
 
 ## Allmänt
