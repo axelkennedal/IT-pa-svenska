@@ -34,7 +34,7 @@ Svenska översättningar för vanliga ord inom IT (på skoj). Inspirerad av http
 | Fullstack | Helhet | Jag är en helhets-utvecklare. |
 | Endpoint | Slutstation | Vilka parametrar tar slutstationen? |
 | Heatmap | Värmekarta | Enligt värmekartan klickar de flesta här. |
-| Deploy | Sjösätta | Ikväll sjösätter vi den nya versionen. |
+| Deploy | Driftsätta | Ikväll driftsätter vi den nya versionen. |
 | Release | Lansering | Imorgon lanserar vi den nya versionen. |
 | Exception | Undantag | Jag stötte på ett undantag när jag skulle köra den här funktionen. |
 | Cookies | Kakor | Jag var tvungen att äta upp mina kakor för att få sidan att fungera. |
