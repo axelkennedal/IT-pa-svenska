@@ -10,7 +10,9 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Bugg | Insekt/Kryp/Skalbagge | Jag hittade en insekt i din nya kod. |
 | Shebang (#!) | Viktig våffla | I ECMAScript 2023 introducerades en viktig våffla. |
 | Scope | Projektomfattning/Omfattning | Det här ingår inte i projektomfattningen. |
+| Deliverables | Leverabler | Vilka leverabler ska vi ta fram i det här projektet? |
 |  |  |  |
+
 
 ## Git
 | Engelska | Svenska | Exempel |
