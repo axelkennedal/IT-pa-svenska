@@ -11,6 +11,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Shebang (#!) | Viktig våffla | I ECMAScript 2023 introducerades en viktig våffla. |
 | Scope | Projektomfattning/Omfattning | Det här ingår inte i projektomfattningen. |
 | Deliverables | Leverabler | Vilka leverabler ska vi ta fram i det här projektet? |
+| Walking skeleton | Vandrande skelett | Låt oss ta fram ett vandrande skelett så att vi kan testa våra viktigaste kvalitets-attribut. |
 |  |  |  |
 
 
