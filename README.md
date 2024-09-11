@@ -42,6 +42,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Release | Lansering | Imorgon lanserar vi den nya versionen. |
 | Exception | Undantag | Jag stötte på ett undantag när jag skulle köra den här funktionen. |
 | Cookies | Kakor | Jag var tvungen att äta upp mina kakor för att få sidan att fungera. |
+| Query string | Söksträng | Funktionen kontrollerar söksträngs-parametrarna. |
 |  |  |  |
 
 
