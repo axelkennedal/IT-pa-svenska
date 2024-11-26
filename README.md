@@ -36,7 +36,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Frontend | Gränssnitt | Gränssnittet på vår hemsida är implementerad i Vue. |
 | Backend | Baksida | Mestadels jobbar jag med baksidan i vårt projekt. |
 | Fullstack | Helhet | Jag är en helhets-utvecklare. |
-| Endpoint | Slutstation | Vilka parametrar tar slutstationen? |
+| Endpoint | API-metod | Vilka parametrar tar API-metoden? |
 | Heatmap | Värmekarta | Enligt värmekartan klickar de flesta här. |
 | Deploy | Driftsätta | Ikväll driftsätter vi den nya versionen. |
 | Release | Lansering | Imorgon lanserar vi den nya versionen. |
