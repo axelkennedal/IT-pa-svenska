@@ -13,7 +13,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Deliverables | Leverabler | Vilka leverabler ska vi ta fram i det här projektet? |
 | Walking skeleton | Vandrande skelett | Låt oss ta fram ett vandrande skelett så att vi kan testa våra viktigaste kvalitets-attribut. |
 | Feature toggle | Funktionsväxel | Om du aktiverar funktionsväxeln kommer det nya utseendet visas för alla kunderna direkt. |
-| Type coercion | Typomvandlig | Javascript har automatisk typomvandling. |
+| Type coercion | Typomvandling | Javascript har automatisk typomvandling. |
 |  |  |  |
 
 
