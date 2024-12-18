@@ -8,13 +8,22 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Open source | Öppen sås | Är det där NPM-paketet öppen sås? |
 | Closed source | Stängd sås | Vi har beslutat att använda stängd sås. |
 | Bugg | Insekt/Kryp/Skalbagge | Jag hittade en insekt i din nya kod. |
+| Exception | Undantag | Jag stötte på ett undantag när jag skulle köra den här funktionen. |
 | Shebang (#!) | Viktig våffla | I ECMAScript 2023 introducerades en viktig våffla. |
-| Scope | Projektomfattning/Omfattning | Det här ingår inte i projektomfattningen. |
 | Deliverables | Leverabler | Vilka leverabler ska vi ta fram i det här projektet? |
 | Walking skeleton | Vandrande skelett | Låt oss ta fram ett vandrande skelett så att vi kan testa våra viktigaste kvalitets-attribut. |
 | Feature toggle | Funktionsväxel | Om du aktiverar funktionsväxeln kommer det nya utseendet visas för alla kunderna direkt. |
 |  |  |  |
 
+## Ärenden/Projekt
+| Engelska | Svenska | Exempel |
+|----------|-------------|----------------------------------------------------|
+| Deploy | Sjösätta | Ikväll sjösätter vi den nya versionen. |
+| Release | Version | Den förra versionen av vår hemsida var mest buggfixar. |
+| Launch | Lansering | Imorgon lanserar vi den nya versionen. (Används om nya versioner som marknadsförs mycket, t.ex. stora nya funktioner.) |
+| Scope | Projektomfattning/Omfattning | Det här ingår inte i projektomfattningen. |
+| Backlog | Ärendekö | Vi lägger in det i vår ärendekö och prioriterar det senare. |
+|  |  |  |
 
 ## Git
 | Engelska | Svenska | Exempel |
@@ -38,10 +47,6 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Fullstack | Helhet | Jag är en helhets-utvecklare. |
 | Endpoint | API-metod | Vilka parametrar tar API-metoden? |
 | Heatmap | Värmekarta | Enligt värmekartan klickar de flesta här. |
-| Deploy | Sjösätta | Ikväll sjösätter vi den nya versionen. |
-| Release | Version | Den förra versionen av vår hemsida var mest buggfixar. |
-| Launch | Lansering | Imorgon lanserar vi den nya versionen. (Används om nya versioner som marknadsförs mycket, t.ex. stora nya funktioner.) |
-| Exception | Undantag | Jag stötte på ett undantag när jag skulle köra den här funktionen. |
 | Cookies | Kakor | Jag var tvungen att äta upp mina kakor för att få sidan att fungera. |
 | Query string | Söksträng | Funktionen kontrollerar söksträngs-parametrarna. |
 |  |  |  |
