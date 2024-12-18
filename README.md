@@ -31,7 +31,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Branch | Gren | Jag jobbar i min egen gren. |
 | Merge | Sammanfoga | Jag har sammanfogat master till integrations-grenen. |
 | Repo | Valv | Kan du länka till valvet? |
-| Release branch | Lanseringsgren | Nu har jag sammanfogat alla ärenden in i lanseringsgrenen. |
+| Release branch | Versionsgren | Nu har jag sammanfogat alla ärenden in i versionsgrenen. |
 | Push | Knuffa | Nu har jag knuffat koden till master. |
 | Pull | Dra ner | Kom du ihåg att dra ner den nya koden? |
 | Pull request | Dragförslag | Kan du kolla in mitt dragförslag för lanseringsgrenen? |
