@@ -34,7 +34,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Release branch | Lanseringsgren | Nu har jag sammanfogat alla ärenden in i lanseringsgrenen. |
 | Push | Knuffa | Nu har jag knuffat koden till master. |
 | Pull | Dra ner | Kom du ihåg att dra ner den nya koden? |
-| Pull request | Dragförslag | Kan du kolla in mit dragförslag för lanseringsgrenen? |
+| Pull request | Dragförslag | Kan du kolla in mitt dragförslag för lanseringsgrenen? |
 | Stash | Stuva | Ge mig en sekund, jag ska stuva undan koden först. |
 |  |  |  |
 
