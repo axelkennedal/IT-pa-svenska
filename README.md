@@ -10,7 +10,6 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Bugg | Insekt/Kryp/Skalbagge | Jag hittade en insekt i din nya kod. |
 | Exception | Undantag | Jag stötte på ett undantag när jag skulle köra den här funktionen. |
 | Shebang (#!) | Viktig våffla | I ECMAScript 2023 introducerades en viktig våffla. |
-| Deliverables | Leverabler | Vilka leverabler ska vi ta fram i det här projektet? |
 | Walking skeleton | Vandrande skelett | Låt oss ta fram ett vandrande skelett så att vi kan testa våra viktigaste kvalitets-attribut. |
 | Feature toggle | Funktionsväxel | Om du aktiverar funktionsväxeln kommer det nya utseendet visas för alla kunderna direkt. |
 | Type coercion | Typomvandling | Javascript har automatisk typomvandling. |
@@ -26,6 +25,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Launch | Lansering | Imorgon lanserar vi den nya versionen. (Används om nya versioner som marknadsförs mycket, t.ex. stora nya funktioner.) |
 | Scope | Projektomfattning/Omfattning | Det här ingår inte i projektomfattningen. |
 | Backlog | Ärendekö | Vi lägger in det i vår ärendekö och prioriterar det senare. |
+| Deliverables | Leverabler | Vilka leverabler ska vi ta fram i det här projektet? |
 |  |  |  |
 
 ## Git
