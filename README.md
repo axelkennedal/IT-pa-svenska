@@ -14,6 +14,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Walking skeleton | Vandrande skelett | Låt oss ta fram ett vandrande skelett så att vi kan testa våra viktigaste kvalitets-attribut. |
 | Feature toggle | Funktionsväxel | Om du aktiverar funktionsväxeln kommer det nya utseendet visas för alla kunderna direkt. |
 | Type coercion | Typomvandling | Javascript har automatisk typomvandling. |
+| Stacktrace | Stackspår | Vi hittade felet genom att undersöka stackspår för de undantag som kastades. |
 |  |  |  |
 
 
