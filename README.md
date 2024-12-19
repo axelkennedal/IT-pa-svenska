@@ -14,6 +14,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Feature toggle | Funktionsväxel | Om du aktiverar funktionsväxeln kommer det nya utseendet visas för alla kunderna direkt. |
 | Type coercion | Typomvandling | Javascript har automatisk typomvandling. |
 | Stacktrace | Stackspår | Vi hittade felet genom att undersöka stackspår för de undantag som kastades. |
+| Code review | Kodgranskning | Kan du göra en kodgranskning av min gren innan jag sammanfogar den till versionsgrenen? |
 |  |  |  |
 
 
