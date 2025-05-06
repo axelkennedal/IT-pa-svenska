@@ -16,6 +16,7 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Stacktrace | Stackspår | Vi hittade felet genom att undersöka stackspår för de undantag som kastades. |
 | Code review | Kodgranskning | Kan du göra en kodgranskning av min gren innan jag sammanfogar den till versionsgrenen? |
 | Deprecated | Föråldrat | Den där metoden är föråldrad, använd den här istället. |
+| Conditional statement | Villkorsuttryck | Enligt villkorsuttrycket så borde den här koden köras. |
 |  |  |  |
 
 
