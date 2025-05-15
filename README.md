@@ -1,6 +1,9 @@
 # IT-pa-svenska
 Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspirerad av https://github.com/bjorne/git-pa-svenska
+
+Vissa översättningar är mer uppenbara än andra, men finns med i listan för att verkligen driva hem att man inte behöver använda svengelska.
 > Gör gärna ett dragförslag om du anser att något ska ändras/läggas till.
+
 
 ## Allmänt
 | Engelska | Svenska | Exempel |
@@ -15,7 +18,8 @@ Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspire
 | Type coercion | Typomvandling | Javascript har automatisk typomvandling. |
 | Stacktrace | Stackspår | Vi hittade felet genom att undersöka stackspår för de undantag som kastades. |
 | Code review | Kodgranskning | Kan du göra en kodgranskning av min gren innan jag sammanfogar den till versionsgrenen? |
-| Deprecated | Föråldrat | Den där metoden är föråldrad, använd den här istället. |
+| Deprecated | Föråldrad | Den där metoden är föråldrad, använd den här istället. |
+| Breaking changes | Brytande förändringar | Tyvärr blir det svårt att uppdatera då den nya versionen innebär brytande förändringar. |
 | Conditional statement | Villkorsuttryck | Enligt villkorsuttrycket så borde den här koden köras. |
 |  |  |  |
 
