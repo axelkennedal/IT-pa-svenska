@@ -59,6 +59,7 @@ Vissa översättningar är mer uppenbara än andra, men finns med i listan för 
 | Heatmap | Värmekarta | Enligt värmekartan klickar de flesta här. |
 | Cookies | Kakor | Jag var tvungen att äta upp mina kakor för att få sidan att fungera. |
 | Query string | Söksträng | Funktionen kontrollerar söksträngs-parametrarna. |
+| Tooltip | Tipsruta | Svävar du med muspekaren över texten så visas en tipsruta. |
 |  |  |  |
 
 
