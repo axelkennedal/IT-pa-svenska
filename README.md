@@ -1,4 +1,4 @@
-# IT-pa-svenska
+# IT på svenska
 Svenska översättningar för vanliga ord inom IT (lite halvt på skoj). Inspirerad av https://github.com/bjorne/git-pa-svenska
 
 Vissa översättningar är mer uppenbara än andra, men finns med i listan för att verkligen driva hem att man inte behöver använda svengelska.
