@@ -38,6 +38,7 @@ Vissa översättningar är mer uppenbara än andra, men finns med i listan för 
 ## Git
 | Engelska | Svenska | Exempel |
 |----------|-------------|----------------------------------------------------|
+| Commit | Binda fast | Låt mig bara binda fast den här koden innan vi går på lunch. |
 | Branch | Gren | Jag jobbar i min egen gren. |
 | Merge | Sammanfoga | Jag har sammanfogat master till integrations-grenen. |
 | Repo | Valv | Kan du länka till valvet? |
