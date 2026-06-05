@@ -62,6 +62,7 @@ Vissa översättningar är mer uppenbara än andra, men finns med i listan för 
 | Query string | Söksträng | Funktionen kontrollerar söksträngs-parametrarna. |
 | Tooltip | Tipsruta | Svävar du med muspekaren över texten så visas en tipsruta. |
 | Payload | Stomme | Stommen för den här API-metoden har ett titel-fält. |
+| Cache | Skattgömma | Den här API-metoden använder en skattgömma på server-sidan.|
 |  |  |  |
 
 
